@@ -11,7 +11,7 @@
 Welcome to the Machine Learning Concepts with Notebook Tasks repository! 🎉 This repository provides a comprehensive introduction to machine learning concepts and techniques, along with hands-on notebook tasks to reinforce understanding.
 
 <div align="center">
-  <img src="https://i.ibb.co/Yb2WVRy/Machine-Learning-Concepts-with-Notebook-Tasks.png" alt="Flow" />
+  <img src="https://i.ibb.co/cFDz5dj/Machine-Learning-Concepts-with-Notebook-Tasks-1.png" alt="Flow" />
 </div>
 
 **Core Concepts** 💡
