@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://i.ibb.co/r3hjVfj/image.png" width=800 alt="Ml Odyssey" />
+</div>
+
 **Machine Learning Concepts with Notebook Tasks** 🤖
 ================================================
 
@@ -101,25 +105,25 @@ Welcome to the Machine Learning Concepts with Notebook Tasks repository! 🎉 Th
 
 To get started, clone this repository to your local machine:
 
-\`\`\`
-git clone https://github.com/your-username/ML-Foundations-and-Tasks.git
-\`\`\`
+```git
+git clone https://github.com/MohamedMandour10/Introduction-To-Machine-Learning.git
+```
 
 Open the Jupyter Notebook files in the respective folders and follow the instructions provided within each notebook.
 
 **Contributing** 🤝
 --------------
 
-### Contributions are welcome! If you have a suggestion for a new notebook or improvement to an existing one, please open an issue or submit a pull request 💬
+ Contributions are welcome! If you have a suggestion for a new notebook or improvement to an existing one, please open an issue or submit a pull request 💬
 
 **License** 📝
 ---------
 
-### This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details 📄
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details 📄
 
 **Acknowledgments** 🙏
 ----------------
 
-### This repository is inspired by various machine learning resources and tutorials available online. Special thanks to the authors and contributors of these resources for their work 💕
+This repository is inspired by various machine learning resources and tutorials available online. Special thanks to the authors and contributors of these resources for their work 💕
 
 **Happy learning!** 🎉
